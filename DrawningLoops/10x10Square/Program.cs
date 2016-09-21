@@ -10,6 +10,7 @@ namespace _10x10Square
     {
         static void Main(string[] args)
         {
+
             var n = int.Parse(Console.ReadLine());
             for (int row = 1; row <= n; row++)
             {
@@ -18,7 +19,13 @@ namespace _10x10Square
 
                 Console.WriteLine();
 for (int row = 1; row <= n; row++)
-for (int row = 1; row <= n; row++dasda)
+for (int row = 1; row <= n; row++)
+
+                {
+                    Console.Write(" *");
+                }
+
+                Console.WriteLine(); 
             }
 
         }
