@@ -17,6 +17,10 @@ namespace @new
                 {
                     Console.Write("$ 111111111111111111111232131312313$ $ $ $ $ $ 13123");
                 }
+                var n = int.Parse(Console.ReadLine());
+            for (int row = 1; row <=n; row++)
+            var n = int.Parse(Console.ReadLine());
+            for (int row = 1; row <=n; row++)
                 Console.WriteLine("$");
             }
         }
