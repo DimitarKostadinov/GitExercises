@@ -15,7 +15,7 @@ namespace @new
             {
                 for (int col = 1; col < row; col++)
                 {
-                    Console.Write("$ ");
+                    Console.Write("$ 111111111111111111111232131312313$ $ $ $ $ $ 13123");
                 }
                 Console.WriteLine("$");
             }
