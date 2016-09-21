@@ -10,16 +10,13 @@ namespace _10x10Square
     {
         static void Main(string[] args)
         {
-            var n = int.Parse(Console.ReadLine());
-            for (int row = 1; row <= n; row++)
-            {
-                Console.Write("*");
-                for (int col = 1; col < n; col++)
+            asdadadadsasdasdadadad
                 {
                     Console.Write(" *");
                 }
 
-                Console.WriteLine();
+                Console.WriteLine(); Console.WriteLine(); Console.WriteLine(); Console.WriteLine();
+                 Console.WriteLine(); Console.WriteLine();
             }
 
         }
